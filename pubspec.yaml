@@ -25,6 +25,7 @@ dependencies:
     sdk: flutter
   flutter_dialogflow: ^0.1.3
   fluttertoast: ^7.0.4
+  google_fonts:
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -34,7 +35,6 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  fluttertoast: ^7.0.4
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
